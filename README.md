@@ -1,1 +1,1 @@
-# Notes
+This is a Notes project
